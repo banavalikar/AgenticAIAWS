@@ -5,4 +5,4 @@ def print_numbers():
         print(f"Number: {i}")
 
 print_numbers()
-#attempt6
+#attempt7
