@@ -3,6 +3,7 @@ def print_numbers():
     
     for i in range(numbers):  # ❌ Error: 'range' requires an integer, not a list
         print(f"Number: {i}")
+        return
 
 print_numbers()
-#attempt8
+#attempt9
