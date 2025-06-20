@@ -5,5 +5,5 @@ def print_numbers():
         print(f"Number: {i}")
         return
 
-print_numbers(4)
-#attempt20
+print_numbers(2)
+#attempt21
