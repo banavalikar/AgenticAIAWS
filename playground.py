@@ -1,9 +1,9 @@
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
     
-    for i in range(numbers):  
+    for i in numbers:
         print(f"Number: {i}")
-        return
+    
 
 print_numbers()
 #attempt23
