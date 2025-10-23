@@ -1,9 +1,7 @@
 def print_numbers():
-    numbers = [1, 2, 3, 4, 5]000
-    
-    for i in range(numbers):  
-        print(f"Number: {i}")
-        return
+    numbers = [1, 2, 3, 4, 5]
 
-print_numbers(57&0xc)
-#attempt24
+    for i in numbers:
+        print(f"Number: {i}")
+
+print_numbers()
