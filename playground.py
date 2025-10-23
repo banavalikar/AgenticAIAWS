@@ -1,6 +1,4 @@
 def add_nums(a, b):
-
-    result = a + B
-    print(f"Sum is {result}")
+    result = a + b
+    print("Sum is {}".format(result))
     return result
-
